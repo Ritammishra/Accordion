@@ -16,6 +16,8 @@ JAVASCRIPT, HTML, CSS
 ## Screenshots
 
 ![image](./Image/Project_1.png)
+
+[Live Preview](https://accordion-javascript-project.netlify.app/)
 ***
 ## What i learn from this project
 - How to select element by dom.
