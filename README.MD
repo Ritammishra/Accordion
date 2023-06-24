@@ -17,7 +17,7 @@ JAVASCRIPT, HTML, CSS
 
 ![image](./Image/Project_1.png)
 
-[Live Preview](https://accordion-javascript-project.netlify.app/)
+[Live Preview](https://accordion-javascript-project.netlify.app/){:target="_blank"}
 ***
 ## What i learn from this project
 - How to select element by dom.
